@@ -39,19 +39,7 @@ Then, launch the notebook:
 jupyter notebook LEC-1.ipynb
 ```
 
----
 
-### ✨ Preview
-
-Here's a sneak peek of what's inside:
-
-```python
-# A sample Python cell
-def greet(name):
-    return f"Hello, {name} 👋"
-
-greet("Data Scientist")
-```
 
 ---
 
