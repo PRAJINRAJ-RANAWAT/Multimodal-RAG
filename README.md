@@ -40,7 +40,6 @@ jupyter notebook LEC-1.ipynb
 ```
 
 
-
 ---
 
 ### 📈 Learning Outcomes
@@ -53,4 +52,7 @@ By the end of this notebook, you will be able to:
 * Be ready to dive into Numpy, Pandas, and data analysis
 
 ---
+
+Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
+
 
